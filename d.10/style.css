@@ -21,7 +21,8 @@
     margin-left: -30px;
     border: 0px;
     color: white;
-   min-height: 150px;
+
+    
 
     
 
@@ -50,7 +51,9 @@
     margin-bottom: 20px;
     margin-left: -5 px;
    width: auto;
-   min-width: 100px;
+   
+   min-height: 150px;
+   min-width: 585px;
     
     
   }
@@ -117,8 +120,8 @@ list-style-position: inside;
 position: relative;
 background-color: rgb(29, 185, 29);
 height: 0px;
-margin-left: -10px;
-margin-right: -10px;
+margin-left: -20px;
+margin-right: -20px;
 margin-bottom: 15px;
 padding-bottom: 59%;
 
